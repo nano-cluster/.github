@@ -13,7 +13,7 @@ Each Nano service only needs:
 
 ## How it works?
 
-It uses Std.IO Universal Interface for message passing
+It uses `Std.IO` Universal Interface for message passing
 
 
 ## What is Std.IO Universal Interface?
