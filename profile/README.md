@@ -1,5 +1,7 @@
 # Nano Cluster
 
+![logo](nano-cluster.svg)
+
 Nano Cluster is a set of tools to build, run and deploy Nano services (likes of function as a service, lambdas, serverless, ..etc.).
 Those Nano services are build and delivered as container images (possibly for WASM/WASI runtimes)
 Each Nano service only needs:
