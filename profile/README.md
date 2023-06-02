@@ -42,4 +42,6 @@ By sending the request using STDOUT to special nano services called adaptors
 - no network saturation due to inter-container communications
 - more secure (can't be sniffed, policy can be applied)
 
+Check the [FAQ](https://github.com/nano-cluster/nano-compose/wiki/Nano-Cluster-FAQ)
+
 
